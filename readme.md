@@ -59,7 +59,7 @@ This is a PHP RESTful API for managing users, departments, leave requests, feedb
 | Leave         | `GET /leave/{type}/{id}`               | Leave management           |
 | Report        | `GET /report/{type}/{id}`              | Reporting                  |
 
-- All endpoints are relative to `http://localhost:8000/`.
+- All endpoints are relative to `http://localhost:8000/api/`.
 
 ## Notes
 
